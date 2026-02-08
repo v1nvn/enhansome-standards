@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-07T05:44:54Z",
+            "last_commit": "2026-02-07T16:29:20Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 44319
+            "stars": 44322
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-02-03T05:27:19Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23164
+            "stars": 23166
           }
         }
       ],
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-04T07:47:48Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19046
+            "stars": 19047
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-02-06T18:14:30Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3679
+            "stars": 3680
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-02-05T22:06:47Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12489
+            "stars": 12490
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 42657
+            "stars": 42664
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5772
+            "stars": 5773
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2025-11-30T00:13:07Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2612
+            "stars": 2613
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-02-07T00:28:07Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10538
+            "stars": 10541
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2026-01-26T11:37:25Z",
             "owner": "satoshilabs",
             "repo": "slips",
-            "stars": 1660
+            "stars": 1661
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2026-02-04T10:28:04Z",
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 620
+            "stars": 619
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2026-02-04T15:06:25Z",
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-specifications",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-02-02T09:20:49Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 10580
+            "stars": 10582
           }
         },
         {
@@ -1071,10 +1071,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:12:31.120Z",
+    "last_updated": "2026-02-08T04:26:28.015Z",
     "original_repository": "donBarbos/awesome-standards",
     "source_repository": "v1nvn/enhansome-standards",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
