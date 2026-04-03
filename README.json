@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-02T01:41:28Z",
+            "last_commit": "2026-04-02T23:55:58Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 44576
+            "stars": 44583
           }
         },
         {
@@ -48,10 +48,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-01T20:24:11Z",
+            "last_commit": "2026-04-02T21:12:00Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10909
+            "stars": 10910
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-03-26T16:15:50Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5715
+            "stars": 5716
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2020-10-19T19:46:45Z",
             "owner": "kevinswiber",
             "repo": "siren",
-            "stars": 1341
+            "stars": 1342
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2025-08-11T21:31:30Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23256
+            "stars": 23259
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-02-10T13:47:51Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23207
+            "stars": 23205
           }
         }
       ],
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-31T06:34:06Z",
+            "last_commit": "2026-04-02T23:55:24Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19088
+            "stars": 19090
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-03-25T11:01:41Z",
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-03-18T19:05:32Z",
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3446
+            "stars": 3447
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-04-01T13:34:17Z",
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2897
+            "stars": 2896
           }
         },
         {
@@ -356,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-04-02T03:09:53Z",
+            "last_commit": "2026-04-02T22:50:58Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12553
+            "stars": 12554
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 42805
+            "stars": 42808
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5785
+            "stars": 5786
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2025-05-26T15:49:46Z",
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -680,7 +680,7 @@
             "last_commit": "2026-04-01T16:04:03Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4202
+            "stars": 4203
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2026-03-26T00:07:32Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2644
+            "stars": 2645
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-03-24T20:37:30Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10676
+            "stars": 10680
           }
         },
         {
@@ -814,10 +814,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-12T17:15:35Z",
+            "last_commit": "2026-04-02T16:47:08Z",
             "owner": "near",
             "repo": "NEPs",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-03-23T08:27:48Z",
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2230
+            "stars": 2233
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2026-03-05T23:05:19Z",
             "owner": "satoshilabs",
             "repo": "slips",
-            "stars": 1669
+            "stars": 1670
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2026-03-27T15:33:10Z",
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-specifications",
-            "stars": 352
+            "stars": 359
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-03-30T08:25:08Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 10699
+            "stars": 10704
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "last_commit": "2025-12-20T03:13:46Z",
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4009
+            "stars": 4008
           }
         }
       ],
@@ -1071,7 +1071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:20:30.864Z",
+    "last_updated": "2026-04-03T04:21:51.461Z",
     "original_repository": "donBarbos/awesome-standards",
     "source_repository": "v1nvn/enhansome-standards",
     "source_repository_description": null,
