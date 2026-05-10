@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-09T04:54:00Z",
+            "last_commit": "2026-05-09T09:17:41Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 44723
+            "stars": 44726
           }
         },
         {
@@ -48,7 +48,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-09T00:00:51Z",
+            "last_commit": "2026-05-09T18:03:43Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10918
@@ -115,7 +115,7 @@
             "last_commit": "2026-05-07T16:39:17Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5749
+            "stars": 5751
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-02-10T13:47:51Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23233
+            "stars": 23232
           }
         }
       ],
@@ -249,7 +249,7 @@
             "last_commit": "2026-04-27T06:17:52Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19099
+            "stars": 19101
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-05-08T02:04:17Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12595
+            "stars": 12594
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 42906
+            "stars": 42905
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-05-07T16:56:08Z",
             "owner": "helm",
             "repo": "community",
-            "stars": 488
+            "stars": 487
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-05-08T03:13:01Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10756
+            "stars": 10755
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-05-04T20:43:42Z",
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2231
+            "stars": 2232
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-04-29T06:11:15Z",
             "owner": "starknet-io",
             "repo": "SNIPs",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-04-20T15:06:31Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 10782
+            "stars": 10785
           }
         },
         {
@@ -1071,7 +1071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:14:36.947Z",
+    "last_updated": "2026-05-10T05:30:17.821Z",
     "original_repository": "donBarbos/awesome-standards",
     "source_repository": "v1nvn/enhansome-standards",
     "source_repository_description": null,
